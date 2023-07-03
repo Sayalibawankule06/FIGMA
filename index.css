@@ -1,0 +1,92 @@
+div {
+
+    position: relative;
+    width: 414px;
+    height: 896px;
+    background: #EAF2F2;
+  }
+ .shape{
+  position: absolute;
+width: 250px;
+height: 195px;
+
+background-image: url(shape.png);
+background-repeat: no-repeat;
+ }
+  
+.status {
+  position: absolute;
+  left: 0%;
+  right: 2.17%;
+  top: 0%;
+  bottom: 95.09%;
+}
+.mobile{
+  position: absolute;
+width: 232px;
+height: 213px;
+left: 83px;
+top:260px;
+
+}
+h1{
+  /* Get things done with todo */
+
+  
+position: absolute;
+width: 308px;
+height: 44px;
+left: 83px;
+top: 503px;
+
+font-family: 'Noto Sans SC';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.3px;
+
+color: #000000;
+
+
+}
+p{
+  /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ipsum neque ut consequat. */
+
+  
+position: absolute;
+width: 284px;
+height: 132px;
+left: 65px;
+top: 547px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.3px;
+
+color: rgba(111, 101, 101, 0.5);
+
+
+}
+input[type=button]{
+ 
+
+
+position: absolute;
+width: 321px;
+height: 61px;
+left: 54px;
+top: 765px;
+
+background: #2ED2C9;
+}
+ 

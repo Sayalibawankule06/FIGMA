@@ -1,0 +1,136 @@
+.container {
+
+  position: relative;
+width: 414px;
+height: 896px;
+
+background: #EAF2F2;
+  
+}
+.shape{
+position: absolute;
+width: 339px;
+height: 303px;
+background-image: url(shape.png);
+background-repeat: no-repeat;
+}
+
+.status {
+position: absolute;
+left: 0%;
+right: 2.17%;
+top: 0%;
+bottom: 95.09%;
+}
+
+h1{
+  position: absolute;
+width: 308px;
+height: 44px;
+left: 42px;
+top: 221px;
+
+font-family: 'Noto Sans SC';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.3px;
+
+color: #000000;
+}
+input[type=text]{
+  position: absolute;
+    width: 342.11px;
+    height: 35px;
+    left: 39px;
+    top: 552.19px;
+    background: #FFFFFF;
+    border-radius: 30px;
+}
+input[type1=text]{
+  position: absolute;
+  width: 342.11px;
+  height: 35px;
+  left: 39px;
+  top: 620px;
+
+background: #FFFFFF;
+border-radius: 30px;}
+
+
+input[type2=button]{
+  position: absolute;
+  
+width: 270px;
+height: 47px;
+left: 65px;
+
+width: 321px;
+height: 61px;
+left: 54px;
+top: 765px;
+
+font-family: 'Noto Sans SC';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.3px;
+
+color: #FFFFFF;
+background: #2ED2C9;
+}
+h5{
+  position: absolute;
+width: 345px;
+height: 20px;
+left: 75px;
+top: 842px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.3px;
+
+color: rgba(49, 44, 44, 0.57);
+
+}
+.mobile{
+  position: absolute;
+  width: 232px;
+  height: 213px;
+  left: 83px;
+  top:260px;
+}  
+.link{
+  position: absolute;
+width: 255px;
+height: 28px;
+left: 100px;
+top: 717px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 23px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.3px;
+
+color:(9, 180, 170, 0.59);
+
+}
